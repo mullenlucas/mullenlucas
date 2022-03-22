@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Lucas
+### A bioinformatic and software developer currently based in Buenos Aires, Argentina
+
+
 
 <!--
 **mullenlucas/mullenlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,9 +3,6 @@
 - 📚 Bioinformatics degree
 - :man_scientist: Worked as a software developer in health institutions with Python and R
 
-
-### currently based in Buenos Aires, Argentina
-
 <br>
 
 ### I'm a Full-Stack Developer in progress :soon:
@@ -13,9 +10,10 @@
 - 📚 Learning in detail everything on HTML/CSS, Javascript, Bootstrap, Webpack and much more
 - 💪🏼 Permanently learning new technologies
 
+### currently based in Buenos Aires, Argentina
+
 ## Languages and Tools 🛠 
 
-<br>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> 
 
@@ -31,6 +29,13 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mullenlucas&theme=radical)
+
+##  Contact Me for any information!
+<br>
+  <a href="[https://www.linkedin.com/in/karla-delgado-613a32239/](https://www.linkedin.com/in/lucas-mullen-447312119/)"><img  alt="Lucas Mullen - Linkedin" width="24px" src="./multimedia/Linkedin.svg"/></a> &nbsp;&nbsp;
+  <a href="mailto:mullenlucas@gmail.com">
+    <img  alt="Lucas Mullen - Gmail" width="26px" src="./multimedia/Gmail.svg"/>
+  </a> &nbsp;&nbsp;
 
 <!--
 **mullenlucas/mullenlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

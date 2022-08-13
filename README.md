@@ -32,6 +32,7 @@
 
 ##  Contact Me for any information!
 <br>
+<div align="center">
   <a href="https://www.linkedin.com/in/lucas-mullen-447312119/"><img  alt="Lucas Mullen - Linkedin" width="24px" src="./multimedia/linkedin.png"/></a> &nbsp;&nbsp;
   <a href="mailto:mullenlucas@gmail.com">
     <img  alt="Lucas Mullen - Gmail" width="26px" src="./multimedia/gmail.png"/>
@@ -39,7 +40,7 @@
     <a href="https://www.facebook.com/lucas.mullen.3">
     <img  alt="Lucas Mullen - Facebook" width="26px" src="./multimedia/facebook.png"/>
   </a> &nbsp;&nbsp;
-
+</div>
 <!--
 **mullenlucas/mullenlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

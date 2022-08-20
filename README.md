@@ -29,8 +29,11 @@
 
 - [To-do list - Vanilla JS](https://github.com/mullenlucas/todo-list)
 
+## Github Stats
+
 ![Lucas Mullen's Github Stats](https://github-readme-stats.vercel.app/api?username=mullenlucas&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
+## Top languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mullenlucas&theme=radical)
 

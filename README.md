@@ -25,6 +25,10 @@
 
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>    
 
+## Highlighted projects
+
+- [To-do list - Vanilla JS](https://github.com/mullenlucas/todo-list)
+
 ![Lucas Mullen's Github Stats](https://github-readme-stats.vercel.app/api?username=mullenlucas&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 

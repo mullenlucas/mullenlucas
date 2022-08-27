@@ -30,8 +30,18 @@
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>    
 
 ## Highlighted projects
-
+- [Progressive Rock Fictional Concert](https://github.com/mullenlucas/prog-rock-concert-sched)
+  - Made for the first capstone at the Microverse program, this is intended as a website for a scheduled event
+- [Portfolio](https://github.com/mullenlucas/portfolio_main)
+  - A portfolio replica template
 - [To-do list - Vanilla JS](https://github.com/mullenlucas/todo-list)
+  - A to-do list application made with Vanilla javascript
+- [Leaderboard](https://github.com/mullenlucas/leaderboard)
+  - A scoring fixture made with asynchronous funcitons and API consuption
+- [Awesome books](https://github.com/mullenlucas/awesome-books)
+  - A pair-programming project for providing a list of books (No CSS)
+- [PlanM! - E-commerce](https://github.com/mullenlucas/planm)
+  - An e-commerce website made with MERN
 
 ## Github Stats
 

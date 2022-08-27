@@ -1,16 +1,20 @@
 ## Hi there 👋, I'm Lucas
-### I'm an academic bioinformatic 
-- 📚 Bioinformatics degree
-- :man_scientist: Worked as a software developer in health institutions with Python and R
-
-<br>
 
 ### I'm a Full-Stack Developer in progress :soon:
 - 👨‍💻 Currently a student at Microvese :purple_heart:
 - 📚 Learning in detail everything on HTML/CSS, Javascript, Bootstrap, Webpack and much more
 - 💪🏼 Permanently learning new technologies
+- Specialized in developing React applications
 
-### currently based in Buenos Aires, Argentina
+<br>
+
+### I'm an academic bioinformatic 
+- 📚 Bioinformatics degree
+- :man_scientist: Worked as a software developer in health institutions with Python and R
+
+#### currently based in Buenos Aires, Argentina
+
+### Available for hire !
 
 ## Languages and Tools 🛠 
 

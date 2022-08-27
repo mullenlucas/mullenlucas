@@ -2,7 +2,7 @@
 
 ### I'm a Full-Stack Developer in progress :soon:
 - 👨‍💻 Currently a student at Microvese :purple_heart:
-- 📚 Learning in detail everything on HTML/CSS, Javascript, Bootstrap, Webpack and much more
+- 📚 Learning in detail everything on HTML/CSS, Javascript, Bootstrap, Webpack, and much more
 - 💪🏼 Permanently learning new technologies
 - Specialized in developing React applications
 
@@ -14,7 +14,7 @@
 
 #### currently based in Buenos Aires, Argentina
 
-### Available for hire !
+### Available for hire!
 
 ## Languages and Tools 🛠 
 
@@ -37,7 +37,7 @@
 - [To-do list - Vanilla JS](https://github.com/mullenlucas/todo-list)
   - A to-do list application made with Vanilla javascript
 - [Leaderboard](https://github.com/mullenlucas/leaderboard)
-  - A scoring fixture made with asynchronous funcitons and API consuption
+  - A scoring fixture made with asynchronous functions and API consumption
 - [Awesome books](https://github.com/mullenlucas/awesome-books)
   - A pair-programming project for providing a list of books (No CSS)
 - [PlanM! - E-commerce](https://github.com/mullenlucas/planm)

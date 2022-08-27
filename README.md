@@ -4,7 +4,7 @@
 - 👨‍💻 Currently a student at Microvese :purple_heart:
 - 📚 Learning in detail everything on HTML/CSS, Javascript, Bootstrap, Webpack, and much more
 - 💪🏼 Permanently learning new technologies
-- Specialized in developing React applications
+- :+1: Specialized in developing React applications
 
 <br>
 
@@ -14,7 +14,7 @@
 
 #### currently based in Buenos Aires, Argentina
 
-### Available for hire!
+### :exclamation: Available for hire! :exclamation:
 
 ## Languages and Tools 🛠 
 

@@ -15,7 +15,7 @@
 #### currently based in Buenos Aires, Argentina
 
 ### :exclamation: Available for hire! :exclamation:
-#### Contact me on LinkedIn for more information! <a href="https://www.linkedin.com/in/lucas-mullen-447312119/"><img  alt="Lucas Mullen - Linkedin" width="24px" src="./multimedia/linkedin.png"/></a> &nbsp;&nbsp;
+#### <a href="https://www.linkedin.com/in/lucas-mullen-447312119/"><img  alt="Lucas Mullen - Linkedin" width="24px" src="./multimedia/linkedin.png"/></a> &nbsp;&nbsp; Look me up on LinkedIn for more information! 
 
 ## Languages and Tools 🛠 
 
@@ -44,14 +44,6 @@
 - [PlanM! - E-commerce](https://github.com/mullenlucas/planm)
   - An e-commerce website made with MERN for a company that sells 3D-printed products to display and sell them through the website.
 
-## Github Stats
-
-![Lucas Mullen's Github Stats](https://github-readme-stats.vercel.app/api?username=mullenlucas&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
-
-## Top languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mullenlucas&theme=radical)
-
 ##  Contact Me for any information!
 <br>
 <div align="center">
@@ -63,6 +55,15 @@
     <img  alt="Lucas Mullen - Facebook" width="26px" src="./multimedia/facebook.png"/>
   </a> &nbsp;&nbsp;
 </div>
+
+## Github Stats
+
+![Lucas Mullen's Github Stats](https://github-readme-stats.vercel.app/api?username=mullenlucas&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+
+## Top languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mullenlucas&theme=radical)
+
 <!--
 **mullenlucas/mullenlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

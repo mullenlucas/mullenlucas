@@ -36,9 +36,9 @@
 - [Progressive Rock Fictional Concert](https://github.com/mullenlucas/prog-rock-concert-sched)
   - A fictitious rock-concert schedule website which describes the activities taken place on such concert. Built with vanilla JavaScript.
 - [Portfolio](https://github.com/mullenlucas/portfolio_main)
-  - A portfolio replica template. This project is meant to replicate another portfolio template as close as possible, so as to practice general html and CSS funcitonalities. Built only with html and CSS
+  - A portfolio replica template. This project replicates another portfolio template as close as possible, so as to practice general html and CSS funcitonalities. Built only with html and CSS
 - [To-do list - Vanilla JS](https://github.com/mullenlucas/todo-list)
-  - This application is meant to track which tasks are pending and which are completed, updating the list when the user completes certain tasks. Built with vanilla JavaScript using ES6 modules.
+  - This application tracks which tasks are pending and which are completed, updating the list when the user completes certain tasks. Built with vanilla JavaScript using ES6 modules.
 - [Leaderboard](https://github.com/mullenlucas/leaderboard)
   - A leaderboard app that pulls from the Leaderboard API service that allows users to track marked scores. Built with vanilla JavaScript using asynchronous functions. 
 - [Awesome books](https://github.com/mullenlucas/awesome-books)

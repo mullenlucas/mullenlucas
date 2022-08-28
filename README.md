@@ -2,7 +2,7 @@
 
 ### I'm a Full-Stack Developer in progress :soon:
 - 👨‍💻 Currently a student at Microvese :purple_heart:
-- 📚 Learning in detail everything on HTML/CSS, Javascript, Bootstrap, Webpack, and much more
+- 📚 Learning in detail everything on HTML/CSS, JavaScript, Bootstrap, Webpack, and much more
 - 💪🏼 Permanently learning new technologies
 - :+1: Specialized in developing React applications
 
@@ -15,6 +15,7 @@
 #### currently based in Buenos Aires, Argentina
 
 ### :exclamation: Available for hire! :exclamation:
+#### Contact me on LinkedIn for more information! <a href="https://www.linkedin.com/in/lucas-mullen-447312119/"><img  alt="Lucas Mullen - Linkedin" width="24px" src="./multimedia/linkedin.png"/></a> &nbsp;&nbsp;
 
 ## Languages and Tools 🛠 
 
@@ -31,17 +32,17 @@
 
 ## Highlighted projects
 - [Progressive Rock Fictional Concert](https://github.com/mullenlucas/prog-rock-concert-sched)
-  - Made for the first capstone at the Microverse program, this is intended as a website for a scheduled event
+  - Made for the first capstone at the Microverse program, this is intended as a website for a scheduled event on a ficticious concert taking place on a cruise. This project is meant to replicate a general design (shown on the readme.md) both for desktop and mobile versions.
 - [Portfolio](https://github.com/mullenlucas/portfolio_main)
-  - A portfolio replica template
+  - A portfolio replica template. This project is meant to replicate another portfolio template as close as possible, so as to practice general html and CSS funcitonalities. This was the first complete website made for the microverse program.
 - [To-do list - Vanilla JS](https://github.com/mullenlucas/todo-list)
-  - A to-do list application made with Vanilla javascript
+  - A to-do list application made with Vanilla JavaScript. This application is meant to track which tasks are pending and which are completed, updating the list when the user completes certain tasks.
 - [Leaderboard](https://github.com/mullenlucas/leaderboard)
-  - A scoring fixture made with asynchronous functions and API consumption
+  - A scoring fixture made with asynchronous functions and API consumption. This application consumes an API which adds scores and reads their results from that API and shows it on screen.
 - [Awesome books](https://github.com/mullenlucas/awesome-books)
-  - A pair-programming project for providing a list of books (No CSS)
+  - This project features mostly pair-programming practices to develop a simple yet functional website to list reccommended books, using modules and javascript best practices. (this project lacks CSS styling)
 - [PlanM! - E-commerce](https://github.com/mullenlucas/planm)
-  - An e-commerce website made with MERN
+  - An e-commerce website made with MERN for a company that sells 3D-printed products to display and sell them through the website.
 
 ## Github Stats
 

@@ -17,7 +17,7 @@
 ### :exclamation: Available for hire! :exclamation:
 #### <a href="https://www.linkedin.com/in/lucas-mullen-447312119/"><img  alt="Lucas Mullen - Linkedin" width="24px" src="./multimedia/linkedin.png"/></a> &nbsp;&nbsp; Look me up on LinkedIn for more information!
 
-( I currently don't have a Portfolio, so I'm linking to LinkedIn. )
+##### ( I currently don't have a Portfolio, so I'm linking to LinkedIn. Portfolio coming soon! )
 
 ## Languages and Tools 🛠 
 

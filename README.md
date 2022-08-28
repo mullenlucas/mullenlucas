@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Lucas
 
-### I'm a Full-Stack Developer in progress :soon:
+### I'm a Full-Stack Web Developer in progress with React specialization :soon:
 - 👨‍💻 Currently a student at Microvese :purple_heart:
 - 📚 Learning in detail everything on HTML/CSS, JavaScript, Bootstrap, Webpack, and much more
 - 💪🏼 Permanently learning new technologies
@@ -15,7 +15,9 @@
 #### currently based in Buenos Aires, Argentina
 
 ### :exclamation: Available for hire! :exclamation:
-#### <a href="https://www.linkedin.com/in/lucas-mullen-447312119/"><img  alt="Lucas Mullen - Linkedin" width="24px" src="./multimedia/linkedin.png"/></a> &nbsp;&nbsp; Look me up on LinkedIn for more information! 
+#### <a href="https://www.linkedin.com/in/lucas-mullen-447312119/"><img  alt="Lucas Mullen - Linkedin" width="24px" src="./multimedia/linkedin.png"/></a> &nbsp;&nbsp; Look me up on LinkedIn for more information!
+
+( I currently don't have a Portfolio, so I'm linking to LinkedIn. )
 
 ## Languages and Tools 🛠 
 
@@ -32,17 +34,17 @@
 
 ## Highlighted projects
 - [Progressive Rock Fictional Concert](https://github.com/mullenlucas/prog-rock-concert-sched)
-  - Made for the first capstone at the Microverse program, this is intended as a website for a scheduled event on a ficticious concert taking place on a cruise. This project is meant to replicate a general design (shown on the readme.md) both for desktop and mobile versions.
+  - A fictitious rock-concert schedule website which describes the activities taken place on such concert. Built with vanilla JavaScript.
 - [Portfolio](https://github.com/mullenlucas/portfolio_main)
-  - A portfolio replica template. This project is meant to replicate another portfolio template as close as possible, so as to practice general html and CSS funcitonalities. This was the first complete website made for the microverse program.
+  - A portfolio replica template. This project is meant to replicate another portfolio template as close as possible, so as to practice general html and CSS funcitonalities. Built only with html and CSS
 - [To-do list - Vanilla JS](https://github.com/mullenlucas/todo-list)
-  - A to-do list application made with Vanilla JavaScript. This application is meant to track which tasks are pending and which are completed, updating the list when the user completes certain tasks.
+  - This application is meant to track which tasks are pending and which are completed, updating the list when the user completes certain tasks. Built with vanilla JavaScript using ES6 modules.
 - [Leaderboard](https://github.com/mullenlucas/leaderboard)
-  - A scoring fixture made with asynchronous functions and API consumption. This application consumes an API which adds scores and reads their results from that API and shows it on screen.
+  - A leaderboard app that pulls from the Leaderboard API service that allows users to track marked scores. Built with vanilla JavaScript using asynchronous functions. 
 - [Awesome books](https://github.com/mullenlucas/awesome-books)
-  - This project features mostly pair-programming practices to develop a simple yet functional website to list reccommended books, using modules and javascript best practices. (this project lacks CSS styling)
+  - This project features mostly pair-programming practices to develop a simple yet functional website to list reccommended books, using ES6 modules and vanilla JavaScript best practices. (this project lacks CSS styling)
 - [PlanM! - E-commerce](https://github.com/mullenlucas/planm)
-  - An e-commerce website made with MERN for a company that sells 3D-printed products to display and sell them through the website.
+  - An e-commerce website made for a company that sells 3D-printed products to display and sell them through the website. Built with MERN.
 
 ##  Contact Me for any information!
 <br>
